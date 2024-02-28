@@ -1,6 +1,6 @@
 package Seção_1;
 
-public class Aula_04 {
+public class Aula_04_Lab {
 
 	// Lab 01 
 	
