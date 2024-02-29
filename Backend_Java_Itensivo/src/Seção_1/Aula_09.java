@@ -11,12 +11,7 @@ public class Aula_09 {
 	// DIGITANDO psvm + ctrl + espaço O METODO É GERADO AUTOMAITCAMENTE 
 	// OU DIGITANDO main + ctrl + espaço O METODO É GERADO AUTOMAITCAMENTE 
 	
-	// SÓ PODE TER APENAS UM METODO MAIN POR SISTEMA 
+	// SÓ PODE TER APENAS UM METODO MAIN POR SISTEMA
 	
 	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
 }
