@@ -2,7 +2,7 @@ package Seção_1;
 
 import java.util.Scanner;
 
-public class MissaoDominar_5 {
+public class MissaoDominar_05 {
 
 	public static void main(String[] args) {
 
