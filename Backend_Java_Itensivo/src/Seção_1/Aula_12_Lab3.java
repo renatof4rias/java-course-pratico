@@ -10,7 +10,7 @@ public class Aula_12_Lab3 extends Aula_12_Lab2{
 	}
 	
 	
-	public final void corre() {
+	public void corre() {
 		
 	}
 	

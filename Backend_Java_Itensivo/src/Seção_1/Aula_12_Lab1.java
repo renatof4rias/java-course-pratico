@@ -1,6 +1,6 @@
 package Seção_1;
 
-public class Aula_12_Lab1 {
+public final class Aula_12_Lab1 {
 	
 	// MODIFICADOR DE ACESSO
 	
@@ -10,5 +10,6 @@ public class Aula_12_Lab1 {
 	private String b;
 	protected String c;
 	String d; // <- DEFAULT/PACKAGE 
+	
 	
 }
