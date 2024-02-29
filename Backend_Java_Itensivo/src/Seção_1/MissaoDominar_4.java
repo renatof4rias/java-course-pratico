@@ -18,7 +18,6 @@ public class MissaoDominar_4 {
 		double porcentagem = b / 100;
 		double total = a - (a * porcentagem);
 		
-		
 		System.out.println("Total a Pagar: R$ " + total);
 		
 		sc.close();
