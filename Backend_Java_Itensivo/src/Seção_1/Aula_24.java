@@ -22,16 +22,10 @@ public class Aula_24 {
 		INT sc.nextInt();
 		
 		
-		
-		
-		
-		
-		
 		*/
 		
 		
 		sc.close();
-		
 		//Zona sem Leitura
 		
 	}
