@@ -31,4 +31,16 @@ public class Aula_39 {
 	
 	
 	
+	//AUTOBOXING
+	int e = 10;
+	Integer e1 = e;
+	
+	
+	//UNBOXING
+	Integer f = 10;
+	int f1 = f;
+	
+	
+	
+	
 }

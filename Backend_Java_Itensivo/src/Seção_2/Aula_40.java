@@ -7,7 +7,4 @@ public class Aula_40 {
 	// Cada instancia de uma classe possui sua "COPIA" dessas variaveis para serem preenchidas
 	
 	
-	
-	
-	
 }
