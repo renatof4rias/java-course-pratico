@@ -17,9 +17,16 @@ public class Aula_30_Test {
 		System.out.println(aa.cpf());
 		System.out.println(aa.nome());
 		
+		Integer c = 10;
 		
+		int a = c;
+		Integer b = a;
 		
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
 		
+//		b.valueOf(a); 
 	}
 
 }
