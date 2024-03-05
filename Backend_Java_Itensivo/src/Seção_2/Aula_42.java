@@ -17,6 +17,7 @@ public class Aula_42 {
 	// na memoria tem uma "gaveta" com o endereço "0x12345@Pessoa" no qual tem um
 	// objeto com o identificador p1
 
+	
 	String nome;
 
 }
