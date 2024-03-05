@@ -11,6 +11,7 @@ public class Aula_46_Lab {
 	// Uso em Atributos e Parametros nao sao permitidos
 	// Seu tipo é atribuido com inferencia
 
+	@SuppressWarnings("unused")
 	public void asasfas() {
 		var idade = 0;
 		var nome = "dez";
