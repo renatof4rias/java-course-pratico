@@ -9,11 +9,10 @@ public class Aula_43_Lab {
 
 	// Funciona quando a classe é instanciada
 
-	@SuppressWarnings("unused")
 	public void VariaveisLocais(int a, int b) {
 		// Variaveis Locais
 		int x = a;
-		int z = b; // ESTOU "SOBRESCREVENDO OS ATRIBUTOS = SOMBREAMENTO"
+	//	int z = b; // ESTOU "SOBRESCREVENDO OS ATRIBUTOS = SOMBREAMENTO"
 		System.out.println(x);
 		// Funciona apenas quando o metodo é chamado
 	}
