@@ -30,7 +30,7 @@ public class Aula_69 {
 	public Aula_69(String nome, String cpf, int idade, double salario) {
 		this.nome = nome;
 		this.cpf = cpf;
-		this.idade = idade;
+       	this.idade = idade;
 		this.salario = salario;
 	}
 
