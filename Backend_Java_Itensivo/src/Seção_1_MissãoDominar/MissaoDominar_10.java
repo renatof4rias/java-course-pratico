@@ -1,4 +1,4 @@
-package Seção_1;
+package Seção_1_MissãoDominar;
 
 import java.util.Scanner;
 

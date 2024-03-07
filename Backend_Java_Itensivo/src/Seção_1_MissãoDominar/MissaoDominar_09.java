@@ -1,8 +1,8 @@
-package Seção_1;
+package Seção_1_MissãoDominar;
 
 import java.util.Scanner;
 
-public class MissaoDominar_08 {
+public class MissaoDominar_09 {
 
 	public static void main(String[] args) {
 
@@ -14,11 +14,9 @@ public class MissaoDominar_08 {
 		System.out.print("Digite o Valor da Altura: ");
 		double b = sc.nextDouble();
 
-		double area = a * b;
-		double perimetro = 2 * (a + b);
+		double area = a * b / 2 ;
 
 		System.out.println("Area do Retangulo: " + area);
-		System.out.println("Area do Perimetro: " + perimetro);
 		
 		sc.close();
 	}
