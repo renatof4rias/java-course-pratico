@@ -1,0 +1,8 @@
+package Seção_2_MissãoDominar;
+
+public class Calculator extends Matematica{
+
+	
+	// NAO CONSIGO SOBRESECREVER O METODO POR QUER É DECLARADO COMO FINAL, SE EU PRECISAR FAZER UMA SOBREESCRITA NAO TEM O PQ SER FINAL NA SUPERCLASSE
+	
+}
