@@ -1,7 +1,7 @@
 package Seção_2_MissãoDominar;
 
 public class Aluno {
-	private static int MATRICULA = 1; 
+	private int MATRICULA = 1; 
 	
 	private String nome;
 	private int matriculaAluno;
