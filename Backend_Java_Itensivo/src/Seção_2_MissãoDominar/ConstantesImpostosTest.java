@@ -6,10 +6,6 @@ public class ConstantesImpostosTest {
 		ConstantesImpostos c1 = new ConstantesImpostos();
 		System.out.println(c1.calcularImposto(100.0, "iPI"));
 		
-		
-		
-		
-
 	}
 
 }
