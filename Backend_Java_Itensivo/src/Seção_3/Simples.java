@@ -11,6 +11,5 @@ public class Simples {
 			System.out.println("APROVADO"); // -> SERÁ EXECUTADO SE A CONDICAO RESULTE EM TRUE
 		}
 
-		
 	}
 }
