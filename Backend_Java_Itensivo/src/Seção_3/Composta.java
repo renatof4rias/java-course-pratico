@@ -14,6 +14,5 @@ public class Composta {
 			System.out.println("REPROVADO"); // <- SERÁ EXECUTADO CASO A CONDIÇÃO SEJA FALSA
 		}
 
-		
 	}
 }
