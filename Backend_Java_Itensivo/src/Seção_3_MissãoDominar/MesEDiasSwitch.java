@@ -50,8 +50,9 @@ public class MesEDiasSwitch {
 		default:
 			System.out.println("Mes Invalido");
 			break;
-		};
-		
+		}
+		;
+
 		sc.close();
 	}
 }

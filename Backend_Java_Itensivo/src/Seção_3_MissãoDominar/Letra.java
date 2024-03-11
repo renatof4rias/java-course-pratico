@@ -6,14 +6,14 @@ public class Letra {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
-		
+
 		System.out.print("Informe uma Letra do Alfabeto ->");
 		char letra = sc.next().charAt(0);
 		char letraLow = Character.toLowerCase(letra);
-		
+
 		switch (letraLow) {
 		case 'a':
-		case 'e':	
+		case 'e':
 		case 'i':
 		case 'o':
 		case 'u':
