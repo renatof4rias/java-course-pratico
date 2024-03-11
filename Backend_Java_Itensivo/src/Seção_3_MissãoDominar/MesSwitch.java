@@ -2,7 +2,7 @@ package Seção_3_MissãoDominar;
 
 import java.util.Scanner;
 
-public class Mes {
+public class MesSwitch {
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
@@ -10,34 +10,49 @@ public class Mes {
 		System.out.print("Digite um valor de 1 a 12 -> ");
 		int value = sc.nextInt();
 
-		if (value == 1) {
+		switch (value) {
+		case 1:
 			System.out.println("JANEIRO");
-		} else if (value == 2) {
+			break;
+		case 2:
 			System.out.println("FEVEREIRO");
-		} else if (value == 3) {
+			break;
+		case 3:
 			System.out.println("MARCO");
-		} else if (value == 4) {
+			break;
+		case 4:
 			System.out.println("ABRIL");
-		} else if (value == 5) {
+			break;
+		case 5:
 			System.out.println("MAIO");
-		} else if (value == 6) {
+			break;
+		case 6:
 			System.out.println("JUNHO");
-		} else if (value == 7) {
+			break;
+		case 7:
 			System.out.println("JULHO");
-		} else if (value == 8) {
+			break;
+		case 8:
 			System.out.println("AGOSTO");
-		} else if (value == 9) {
+			break;
+		case 9:
 			System.out.println("SETEMBRO");
-		} else if (value == 10) {
+			break;
+		case 10:
 			System.out.println("OUTUBRO");
-		} else if (value == 11) {
+			break;
+		case 11:
 			System.out.println("NOVEMBRO");
-		} else if (value == 12) {
+			break;
+		case 12:
 			System.out.println("DEZEMBRO");
-		} else {
+			break;
+		default:
 			System.out.println("Mes Invalido");
-		}
-
+			break;
+		};
+		
+		
 		sc.close();
 	}
 }
