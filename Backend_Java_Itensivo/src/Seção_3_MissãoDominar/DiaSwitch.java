@@ -32,11 +32,11 @@ public class DiaSwitch {
 		case 7:
 			System.out.println("DOMIGO");
 			break;
-		default :
+		default:
 			System.out.println("DIA INVALIDO");
 			break;
 		}
-		
+
 		sc.close();
 	}
 }
