@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class MesIf {
 	public static void main(String[] args) {
-
 		Scanner sc = new Scanner(System.in);
 
 		System.out.print("Digite um valor de 1 a 12 -> ");

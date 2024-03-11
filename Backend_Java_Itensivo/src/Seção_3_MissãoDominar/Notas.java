@@ -3,14 +3,14 @@ package Seção_3_MissãoDominar;
 import java.util.Scanner;
 
 public class Notas {
-	
+
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
 
 		System.out.print("Nome do Aluno: ");
 		String nome = sc.nextLine();
-		
+
 		System.out.print("Nota P1: ");
 		double p1 = sc.nextDouble();
 		System.out.print("Nota P2: ");
@@ -19,12 +19,12 @@ public class Notas {
 		double p3 = sc.nextDouble();
 		System.out.print("Media dos Exercicios: ");
 		double me = sc.nextDouble();
-		
+
 		double media = (p1 + p2 * 2 + p3 * 3 + me) / 7;
-		
+
 		String conceito = "";
 		String aprov = "";
-		
+
 		if (media >= 9.0) {
 			conceito = "A";
 			aprov = "Aprovado";
@@ -41,8 +41,8 @@ public class Notas {
 			conceito = "E";
 			aprov = "Reprovado";
 		}
-		
-		System.out.println("Aluno: " + nome );
+
+		System.out.println("Aluno: " + nome);
 		System.out.println("Nota1: " + p1);
 		System.out.println("Nota2: " + p2);
 		System.out.println("Nota3: " + p3);
@@ -50,9 +50,7 @@ public class Notas {
 		System.out.println("Media: " + media);
 		System.out.println("Conceito: " + conceito);
 		System.out.println("Aproveitamento: " + aprov);
-		
-		
-		
+
 		sc.close();
 	}
 }

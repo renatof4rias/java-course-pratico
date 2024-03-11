@@ -7,6 +7,7 @@ public class Senha {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
+		
 		final String SENHA = "senha123";
 
 		System.out.print("Informe sua Senha | ");

@@ -7,6 +7,7 @@ public class Triangulo {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
+		
 		System.out.print("Valor da Base = ");
 		double base = sc.nextDouble();
 		System.out.print("Valor do Labo B = ");

@@ -50,9 +50,9 @@ public class MesSwitch {
 		default:
 			System.out.println("Mes Invalido");
 			break;
-		};
-		
-		
+		}
+		;
+
 		sc.close();
 	}
 }
