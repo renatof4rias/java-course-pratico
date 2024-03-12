@@ -15,8 +15,6 @@ public class MissaoDominar_04 {
 		} else {
 			System.out.println("IMPAR");
 		}
-		
-		
 
 		sc.close();
 	}
