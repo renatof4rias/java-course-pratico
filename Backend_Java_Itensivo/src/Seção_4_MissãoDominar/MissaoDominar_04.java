@@ -17,7 +17,6 @@ public class MissaoDominar_04 {
 		}
 		
 		
-		
 
 		sc.close();
 	}
