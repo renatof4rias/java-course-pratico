@@ -1,0 +1,10 @@
+package Seção_4_MissãoDominar;
+
+public class MissaoDominar_19 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
