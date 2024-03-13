@@ -26,6 +26,7 @@ public class MissaoDominar_13 {
 				isOk = true;
 			}
 
+			
 		} while (isOk == true);
 
 		sc.close();

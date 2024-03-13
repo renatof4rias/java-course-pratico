@@ -19,7 +19,7 @@ public class MissaoDominar_12 {
 		}
 
 		System.out.println("Soma Total = " + soma);
-		
+
 		sc.close();
 	}
 
