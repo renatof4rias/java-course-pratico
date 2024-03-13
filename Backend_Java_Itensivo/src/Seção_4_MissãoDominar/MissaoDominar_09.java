@@ -13,6 +13,7 @@ public class MissaoDominar_09 {
 		System.out.print("Texto B -> ");
 		String textoB = sc.nextLine();
 
+		System.out.printf("ANTES:  TextoA = %s TextoB = %s", textoA, textoB);
 		System.out.println(substituirPalavra(textoA, textoB));
 
 		sc.close();
@@ -25,9 +26,8 @@ public class MissaoDominar_09 {
 		stringB = stringC;
 
 		return String.format("""
-				ANTES:  TextoA = %s TextoB = %s
 				DEPOIS: TextoA = %s TextoB = %s
-				""", stringB, stringA, stringA, stringB);
+				""", stringA, stringB);
 	}
 
 }
