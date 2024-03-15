@@ -7,17 +7,17 @@ public class MissaoDominar_06 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		System.out.print("Digite um Texto -> ");
-		String aaa = sc.nextLine();
+		int[] array = new int[] { 1, 2, 3, 4, 5 };
 
-		int tamanho = aaa.length() - 1;
-
-		for (int contador = tamanho; contador >= 0; contador--) {
-
-			System.out.println(aaa.charAt(contador));
-
+		double soma = 0.0;
+		
+		for (int i = 0; i<array.length; i++) {
+			soma += array[i];
 		}
 
+		double media = soma/array.length; 
+		System.out.println(media);
+		
 		sc.close();
 	}
 
