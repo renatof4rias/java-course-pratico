@@ -18,6 +18,7 @@ public class MissaoDominar_08 {
 
 				if (array[i] == array[j]) {
 					temRepetidos = true;
+					
 					break;
 				}
 

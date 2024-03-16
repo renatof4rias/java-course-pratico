@@ -23,7 +23,6 @@ public class MissaoDominar_10 {
 		}
 
 		System.out.println("Maior Palavra é -> " + maiorPalavra + " com " + tamanho + " Letras");
-
 		sc.close();
 	}
 
